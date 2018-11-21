@@ -1,0 +1,38 @@
+
+---Downloaded files---
+The import files for: Agency were successfully downloaded!
+Initial max execution time = 180
+Files info:
+Site URL = http://carrent
+Data file = C:/OSPanel/domains/carrent/wp-content/uploads/2018/11/mesmerize-ocdi/demo-content-import-file_2018-11-10__14-21-44.xml
+Widget file = C:/OSPanel/domains/carrent/wp-content/uploads/2018/11/mesmerize-ocdi/demo-widgets-import-file_2018-11-10__14-21-44.json
+Customizer file = C:/OSPanel/domains/carrent/wp-content/uploads/2018/11/mesmerize-ocdi/demo-customizer-import-file_2018-11-10__14-21-44.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+---Importing widgets---
+Sidebar widget area : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Pages Sidebar : 
+
+Search - Search - Imported
+Pages - Pages - Imported
+Text - Text Box - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
